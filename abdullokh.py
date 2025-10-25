@@ -258,8 +258,8 @@
 
 
 
-player = ['ronaldo', 'neymar', 'mbappe', 'nouer', 'maldini', 'nesta', 'cafu', 'butscens', 'zizu', 'kevin', 'ronaldinho', 'messi', 'pep']
-print(player)
+# player = ['ronaldo', 'neymar', 'mbappe', 'nouer', 'maldini', 'nesta', 'cafu', 'butscens', 'zizu', 'kevin', 'ronaldinho', 'messi', 'pep']
+# print(player)
 
 
 
